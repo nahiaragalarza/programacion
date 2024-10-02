@@ -1,0 +1,55 @@
+
+body {
+    background-color: royalblue;
+    text-align: center;
+    font-size: xx-large;
+    
+    
+    
+}
+#titulos {
+   font-family: fantasy;
+   font-size: 200%;
+}
+h1 {
+    font-size: 250%;
+    background-color: royalblue
+}
+
+#barca {
+    background-color: rgba(235, 93, 11, 0.849);
+    font-family: 'Courier New', Courier, monospace;
+}
+#arg{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+#psg{
+    background-color: rgba(67, 67, 219, 0.849);
+    font-family: 'Courier New', Courier, monospace;
+}
+#miami{
+    background-color: deeppink;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#cant{
+    font-size: 200%;
+    font-family: fantasy;
+}
+table{
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    
+}
+
+header, #redes{
+    background-color: black;
+    justify-content: right;
+    text-align: right;
+    padding: -2px;
+    margin-left: 85%;
+}
